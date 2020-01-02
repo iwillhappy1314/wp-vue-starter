@@ -1,0 +1,20 @@
+{
+  "require": {
+    "tareq1988/wordpress-settings-api-class": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "WenpriseTranslatorManager\\": "includes/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require-dev": {
+    "wenprise/debug": "*"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  }
+}
